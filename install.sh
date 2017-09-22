@@ -17,15 +17,16 @@ echo "
 
 
 "
-echo "      _____     __  __ __________ _  _" | lolcat
-echo "     |_   _|   |  \/  |___ /_   _| || |" | lolcat
-echo "       | |_____| |\/| | |_ \ | | | || |_" | lolcat
-echo "       | |_____| |  | |___) || | |__   _|" | lolcat
-echo "       |_|     |_|  |_|____/ |_|    |_| " | lolcat
+clear
+echo "      _____     __  __ __________ _  _"
+echo "     |_   _|   |  \/  |___ /_   _| || |"
+echo "       | |_____| |\/| | |_ \ | | | || |_" 
+echo "       | |_____| |  | |___) || | |__   _|"
+echo "       |_|     |_|  |_|____/ |_|    |_| "
 echo "
 "
-echo "       -{ Termux - Metaslpoit  } " | lolcat
-echo "       -{ Coded by V3rluchie   } " | lolcat
+echo "       -{ Termux - Metaslpoit  } "
+echo "       -{ Coded by V3rluchie   } "
 echo ""
 echo ""
 echo "Using And Installing This Tools That Mean You Ready For"
@@ -79,15 +80,15 @@ rm ./modules/auxiliary/gather/http_pdf_authors.rb
 ln -s $HOME/metasploit-framework/msfconsole /data/data/com.termux/files/usr/bin/
 
 
-echo "Thanx  To  Yukinoshita" | lolcat
+echo "Thanx  To  Yukinoshita"
 echo ""
-echo "For your support" | lolcat
-echo "And For Team " | lolcat
-echo " Blood Tears No Team Squad " | lolcat
+echo "For your support"
+echo "And For Team "
+echo " Blood Tears No Team Squad "
 echo "
 
 "
-echo " contact me : verluchie[at]hackermail.com " | lolcat
+echo " contact me : verluchie[at]hackermail.com "
 echo "
 
 "
