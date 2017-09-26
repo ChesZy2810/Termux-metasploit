@@ -56,6 +56,7 @@ cd $HOME/metasploit-framework
 sed '/rbnacl/d' -i Gemfile.lock
 sed '/rbnacl/d' -i metasploit-framework.gemspec
 gem install bundler
+bundle config build.nokogiri --use-system-libraries
 
 
 gem install nokogiri -- --use-system-libraries
