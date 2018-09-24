@@ -37,4 +37,5 @@ ______________________________________
 
 V3rluchie Team Blood Tears No Team Squad
 
-http://www.squad-cyber.ga
+# For other tutorials
+https://www.squadcyber.com/
